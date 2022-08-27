@@ -1,0 +1,16 @@
+#nota{
+    width: 60px;
+}
+
+#avaliar{
+    width: 170px;
+    border-radius: 7px;
+    color: #ffffff;
+    background-color: #1f619e;
+}
+
+#avaliar:hover{
+    background-color: #0DB51C;
+    transition-property: background-color;
+    transition-duration: 0.75s;
+}

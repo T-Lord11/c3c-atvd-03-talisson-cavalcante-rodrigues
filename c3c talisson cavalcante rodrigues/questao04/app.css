@@ -1,0 +1,21 @@
+#numero{
+    width: 70px;
+}
+
+#resultado{
+    width:100% ;
+    word-break: break-word;
+}
+
+#avaliar{
+    width: 170px;
+    border-radius: 7px;
+    color: #ffffff;
+    background-color: #1f619e;
+}
+
+#avaliar:hover{
+    background-color: #0DB51C;
+    transition-property: background-color;
+    transition-duration: 0.75s;
+}

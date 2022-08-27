@@ -1,0 +1,22 @@
+#ax2,#bx,#c {
+    width: 60px ;
+    border-radius: 7px;
+}
+
+#resultado{
+    width: 150px;
+    border-radius: 7px;
+}
+
+#calcular{
+    width: 170px;
+    border-radius: 7px;
+    color: #ffffff;
+    background-color: #020307;
+}
+
+#calcular:hover{
+    background-color: #0DB51C;
+    transition-property: background-color;
+    transition-duration: 0.75s;
+}
